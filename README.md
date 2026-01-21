@@ -1,5 +1,5 @@
-E-Commerce Sales Analysis
-Dataset: Superstore Sales Dataset (Kaggle) This is a classic real-world dataset with sales, profit, region, products, discounts, and customers.
+<h1>E-Commerce Sales Analysis</h1>
+<h2>Dataset: Superstore Sales Dataset (Kaggle) This is a classic real-world dataset with sales, profit, region, products, discounts, and customers.</h2>
 
 ``` python
 #Importing all required libraries
